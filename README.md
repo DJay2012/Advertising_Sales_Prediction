@@ -28,8 +28,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn joblib
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/DJay2012/Advertising_Sales_Prediction.git
+   cd Advertising_Sales_Prediction
    ```
 
 2. **Open the Notebook**:
